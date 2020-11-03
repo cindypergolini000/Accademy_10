@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accademy.GeometryAbstract",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accademy.Helper", "Accademy.Helper\Accademy.Helper.csproj", "{BD55CB96-6391-4061-843B-88109E1C819A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accademy.WinForms", "Accademy.WinForms\Accademy.WinForms.csproj", "{8A5CE701-EDC1-451D-B1F7-E4106BE84FF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BD55CB96-6391-4061-843B-88109E1C819A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD55CB96-6391-4061-843B-88109E1C819A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD55CB96-6391-4061-843B-88109E1C819A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5CE701-EDC1-451D-B1F7-E4106BE84FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5CE701-EDC1-451D-B1F7-E4106BE84FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5CE701-EDC1-451D-B1F7-E4106BE84FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5CE701-EDC1-451D-B1F7-E4106BE84FF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
