@@ -29,7 +29,6 @@ namespace Accademy.Console
             //    throw;
             //}
 
-
             // TestGeneric();
             // Testuni00();
             TestUni2();
