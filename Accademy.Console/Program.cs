@@ -34,7 +34,9 @@ namespace Accademy.Console
             // Testuni00();
             TestUni2();
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
         private static void TestUni2()
         {
             string b = "10000101";
